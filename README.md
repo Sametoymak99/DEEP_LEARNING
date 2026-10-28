@@ -1,5 +1,9 @@
 # MNIST El Yazısı Rakam Tanıma Ödevi (Yapay Sinir Ağı - ANN)
 
+### SAMET OYMAK 24120205042
+
+
+
 Bu projede PyTorch kullanılarak MNIST veri seti üzerinde bir Yapay Sinir Ağı (ANN) eğitilmiş ve el yazısıyla çizilmiş 0-9 arası rakamların OpenCV ile tespiti ve sınıflandırılması yapılmıştır.
 
 ## 📌 Proje İçeriği
